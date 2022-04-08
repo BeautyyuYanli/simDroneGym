@@ -1,0 +1,7 @@
+*build/
+.vscode/
+playground/
+*.o
+*.a
+*.out
+*.exe
